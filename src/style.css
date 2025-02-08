@@ -4,8 +4,5 @@ body {
 }
 .links {
     display: flex;
-    justify-content: center;
-}
-a {
-    padding: 10px;
+    justify-content: space-evenly;
 }
