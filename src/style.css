@@ -2,3 +2,7 @@ body {
     background-color: antiquewhite;
     text-align: center;
 }
+.links {
+    display: flex;
+    justify-content: center;
+}
